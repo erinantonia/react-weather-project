@@ -1,0 +1,16 @@
+.WeatherInfo h1 {
+  font-size: 42px;
+  margin-left: 20px;
+}
+
+.WeatherInfo ul {
+  margin-left: -10px;
+}
+
+.WeatherInfo .temperature {
+  font-size: 38px;
+}
+
+.WeatherInfo .unit {
+  font-size: 38px;
+}

@@ -1,1 +1,13 @@
+.Weather {
+  padding: 30px;
+  margin: 50px;
+  border-radius: 5px;
+}
 
+.Weather form {
+  padding: 20px;
+}
+
+.Weather li {
+  list-style-type: none;
+}
