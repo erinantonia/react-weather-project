@@ -16,7 +16,7 @@ export default function App() {
           >
             Erin Allen
           </a>{" "}
-          and is open-sourced on{" "}
+          and open-sourced on{" "}
           <a
             href="https://github.com/erinantonia/react-weather-project"
             target="_blank"

@@ -1,5 +1,6 @@
 import React from "react";
 import FormattedDate from "./FormattedDate";
+import WeatherIcon from "./WeatherIcon";
 import "./WeatherInfo.css";
 
 export default function WeatherInfo(props) {
@@ -15,11 +16,7 @@ export default function WeatherInfo(props) {
           </ul>
         </div>
         <div className="col-3">
-          <img
-            src="https://cdn-icons-png.flaticon.com/512/9055/9055356.png"
-            width="100"
-            alt="sun icon"
-          ></img>
+          <WeatherIcon code={props.data.icon} size={52} />
         </div>
         <div className="col-3 d-flex">
           {" "}
