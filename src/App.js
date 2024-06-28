@@ -17,14 +17,23 @@ export default function App() {
           >
             Erin Allen
           </a>{" "}
-          and open-sourced on{" "}
+          open-sourced on{" "}
           <a
             href="https://github.com/erinantonia/react-weather-project"
             target="_blank"
             rel="noreferrer"
           >
             {" "}
-            Github.
+            Github
+          </a>
+          and hosted on{" "}
+          <a
+            href="https://react-weather-project-ea.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            {" "}
+            Netlify.
           </a>
         </p>
       </footer>
