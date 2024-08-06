@@ -10,7 +10,7 @@ export default function App() {
         <p>
           Coded by{" "}
           <a
-            href="https://github.com/erinantonia"
+            href="https://www.linkedin.com/in/erinaallen/"
             target="_blank"
             rel="noreferrer"
           >
@@ -23,7 +23,7 @@ export default function App() {
             rel="noreferrer"
           >
             {" "}
-            Github
+            Github{" "}
           </a>
           and hosted on{" "}
           <a
